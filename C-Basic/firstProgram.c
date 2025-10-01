@@ -1,14 +1,17 @@
+//Include stdio.h To use printf & scanf Function
 #include <stdio.h>
 
-int main (){
+//Define The main Function
+void main ( void ){
 
+    //Passing String To Print it
     printf("Neso Academy");
 
-    return 'm';
 }
 
-/*============================ Task one ======================================
+//!============================ Task one ======================================
 
+/*
 [1]Comment out The #include <stdio.h>
     Problem: incompatiable implicit declaration of function 'printf'
 
@@ -29,6 +32,7 @@ int main (){
     Problem: No Problem due to return ASCII value of character
 
 [6]Remove The semicolon after return
-    Problem: expected ';' before '}'token
+    Problem: expected ';' before '}'token 
+*/
 
-============================================================================*/
+//!============================================================================*/
